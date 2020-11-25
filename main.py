@@ -1,1 +1,0 @@
-print("Let's get foqing started!")
