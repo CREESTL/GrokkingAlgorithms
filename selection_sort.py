@@ -28,4 +28,3 @@ start_time = time.time()
 sorted_arr = selection_sort(my_arr)
 end_time = time.time()
 print(f"Sorting finished in {end_time - start_time:1.10f} seconds")
-print(
